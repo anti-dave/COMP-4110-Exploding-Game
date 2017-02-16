@@ -1,7 +1,10 @@
 # Project for COMP-4110-Software-Engineering
-davidumlstudent - David DaCosta
-- Robert Cucchiara
+anti-dave - David DaCosta
+rcucciara - Robert Cucchiara
 
 This will eventually be a video game based on the popular game "Exploding Kittens"
 
-hi dave
+Working title: BadKitten
+
+Current Taiga backlog
+https://tree.taiga.io/project/daviddforprez-exploding-game/backlog
