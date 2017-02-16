@@ -1,8 +1,9 @@
 # Project for COMP-4110-Software-Engineering
 anti-dave - David DaCosta
+
 rcucciara - Robert Cucchiara
 
-This will eventually be a video game based on the popular game "Exploding Kittens"
+We will be implementing a windows video game based on the popular game "Exploding Kittens" using the Unity game engine.
 
 Working title: BadKitten
 
