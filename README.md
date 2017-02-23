@@ -1,7 +1,7 @@
 # Project for COMP-4110-Software-Engineering
-anti-dave - David DaCosta<br />UI / Graphics Designer / Scrum Manager / Unit Tester
+anti-dave - David DaCosta<br />Scrum Master / UI / Graphics Designer / Unit Tester
 
-rcucchiara - Robert Cucchiara<br />Lead Developer/ Gameplay Design
+rcucchiara - Robert Cucchiara<br />Product Owner / Lead Developer
 
 We will be implementing a windows video game based on the popular game "Exploding Kittens" using the Unity game engine.
 
